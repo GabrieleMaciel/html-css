@@ -1,6 +1,4 @@
 # html-css
- Curso
-
- Acesse o meu primeiro site sobre link abaixo:
+ Curso 
  
- <a href="https://gabrielemaciel.github.io/html-css/desafios/de010/android.html">
+ <a href="https://gabrielemaciel.github.io/html-css/desafios/de010/android.html">Clique para acessar o meu primeiro site</a>
