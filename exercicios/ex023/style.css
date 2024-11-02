@@ -1,0 +1,15 @@
+@charset "UTP-8";
+
+table{
+    text-align: center;
+    background-color: rgb(229, 220, 237);
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 500px;
+}
+th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}

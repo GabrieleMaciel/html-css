@@ -1,0 +1,26 @@
+@charset "UTP-8";
+
+table{
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 500px;
+}
+td{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+    background-color: rgb(101, 89, 113);
+    color: rgb(255, 253, 253);
+}
+.destaque{
+    background-color: aqua;
+}
+col.cnome{
+    background-color: violet;
+}
+div#container{
+    overflow-x: auto;
+}
