@@ -1,3 +1,9 @@
 @charset "UTP-8";
 
 /* CONFIGURAÇÃO PARA MODO RETRATO (Portrait) */ 
+
+body{
+    background-image: url(../imagens/cev-portrait.jpg);
+    background-position: center bottom;
+    
+}
